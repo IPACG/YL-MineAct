@@ -1,5 +1,6 @@
 # YL-MineAct
 YOLO-LSTM Miner Action Recognition
+
 1. 主实验代码
 
 main_experiment.py - LSTM训练主程序
@@ -27,6 +28,7 @@ plot_distribution.py - 数据分布分析
 lstmcurve.py - 训练曲线绘制
 
 4. 工具脚本
+
 check_count.py - 数据统计
 
 analyze_class_distribution.py - 类别分布分析
